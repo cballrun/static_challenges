@@ -1,0 +1,22 @@
+header {
+  background-color: red;
+  color: white;
+  text-align: left;
+  font-size: 40px;
+  padding: 25px;
+}
+
+nav {
+  background-color: black;
+  color: white;
+  text-align: right;
+  font-size: 18px;
+  padding: 15px;
+  word-spacing: 10px;
+}
+
+li {
+  display: inline-block;
+  text-decoration-line: underline;
+}
+
